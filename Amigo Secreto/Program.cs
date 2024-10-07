@@ -51,5 +51,9 @@ void Sorteio(int tamanho)
     {
         Console.WriteLine($"{ListaDeAmigos[i]} --> {ListaDeAmigos[ListadeNumerosAleatorios[i]]}");
     }
+    Console.WriteLine("Ola");
+
 
 }
+
+
